@@ -16,7 +16,7 @@ O jogo consiste em um apocalipse de zombies, onde você precisa coletar todas as
 # Detalhes
 
 Músicas: 
-  -Come play with me - Kevin MacLeod
+  - Come play with me - Kevin MacLeod
   - Cave of Down - ColBreakz
 
 Personagens: Pokemon (game) 
