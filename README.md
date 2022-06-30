@@ -1,4 +1,4 @@
-# The-Last-of-CIn
+# The-Last-of-CIn-![3](https://user-images.githubusercontent.com/84881858/176783887-66313646-9bf1-48cf-a7c4-c991f4308d6c.png)
 
 Projeto da disciplina de Introdução a Programação no qual consiste em criar um jogo em C utilizando a biblioteca raylib.
 
@@ -31,5 +31,5 @@ Mapa: Pokemon (game)
 ![gif Frente](https://user-images.githubusercontent.com/84881858/176783654-169676f2-e77e-4940-aefc-6580baef80fe.gif)
 ![Lado direito](https://user-images.githubusercontent.com/84881858/176783678-f9177d3e-83dd-4244-bf10-770c0970a378.gif)
 ![Correndo esquerda](https://user-images.githubusercontent.com/84881858/176783702-b67043af-8991-421a-a486-922fc7bda96b.gif)
-![3](https://user-images.githubusercontent.com/84881858/176783887-66313646-9bf1-48cf-a7c4-c991f4308d6c.png)
+
 
