@@ -1,4 +1,4 @@
-# The-Last-of-CIn-![3](https://user-images.githubusercontent.com/84881858/176783887-66313646-9bf1-48cf-a7c4-c991f4308d6c.png)
+# The Last of CIn ![3](https://user-images.githubusercontent.com/84881858/176783887-66313646-9bf1-48cf-a7c4-c991f4308d6c.png)
 
 Projeto da disciplina de Introdução a Programação no qual consiste em criar um jogo em C utilizando a biblioteca raylib.
 
@@ -22,7 +22,7 @@ Músicas:
 Personagens: Pokemon (game)
 Mapa: Pokemon (game) 
 
-# Imagens-do-Jogo
+# Imagens do Jogo
 
 ![1a8bece0-ea06-4186-b804-280f37ffb4e4](https://user-images.githubusercontent.com/84881858/176782518-53e48d31-d1a9-4a5a-9c4a-6d67dbde4986.jpg)
 ![139b5f82-d107-41aa-9d70-807be1d1e723](https://user-images.githubusercontent.com/84881858/176782557-414114d3-750c-42f1-9de7-a04064f4851c.jpg)
