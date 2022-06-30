@@ -12,3 +12,6 @@ Participantes do projeto: Arthur Santos, Lucas Paiva e Matheus Augusto
 O jogo consiste em um apocalipse de zombies, onde você precisa coletar todas as moedas para ganhar. 
 
 ![image](https://user-images.githubusercontent.com/84881858/176781703-4ed5037c-5924-4c6f-93f0-d23aa72344c5.png)
+
+# Detalhes
+
