@@ -1,5 +1,4 @@
-# The Last of CIn 
-![3](https://user-images.githubusercontent.com/84881858/176783887-66313646-9bf1-48cf-a7c4-c991f4308d6c.png)
+# The Last of CIn  ![3](https://user-images.githubusercontent.com/84881858/176783887-66313646-9bf1-48cf-a7c4-c991f4308d6c.png)
 
 Projeto da disciplina de Introdução a Programação no qual consiste em criar um jogo em C utilizando a biblioteca raylib.
 
