@@ -25,7 +25,7 @@ Mapa: Pokemon (game)
 # Imagens do Jogo
 
 ![1a8bece0-ea06-4186-b804-280f37ffb4e4](https://user-images.githubusercontent.com/84881858/176782518-53e48d31-d1a9-4a5a-9c4a-6d67dbde4986.jpg)
-![139b5f82-d107-41aa-9d70-807be1d1e723](https://user-images.githubusercontent.com/84881858/176782557-414114d3-750c-42f1-9de7-a04064f4851c.jpg
+![139b5f82-d107-41aa-9d70-807be1d1e723](https://user-images.githubusercontent.com/84881858/176782557-414114d3-750c-42f1-9de7-a04064f4851c.jpg)
 # Map
 ![WorldMap](https://user-images.githubusercontent.com/84881858/176784464-f5b6438b-3456-4564-a760-1c0c5d55cb1d.png)
 # Player
